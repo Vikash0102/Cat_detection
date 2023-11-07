@@ -4,7 +4,7 @@ This project demonstrates cat detection using OpenCV, a popular computer vision 
 
 ## Prerequisites
 Before you begin, ensure you have  installed:
-1. OpenCV
+* OpenCV
 
 You can install the required packages using command: 
 ```bash
