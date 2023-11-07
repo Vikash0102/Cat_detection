@@ -7,7 +7,9 @@ Before you begin, ensure you have  installed:
 1. OpenCV
 
 You can install the required packages using command: 
+```bash
   pip install opencv-python
+```
 
 ##  Training the Model
 The Haar cascade classifier used in this project is pre-trained.
